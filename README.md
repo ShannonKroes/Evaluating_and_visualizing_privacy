@@ -1,5 +1,5 @@
 # Evaluating_and_visualizing_privacy
-This repository contains the code for our tool to evaluate and visualize privacy as presented in 'Evaluating privacy of individuals in medical data' by SKS Kroes, MP Janssen, RHH Groenwold and M van Leeuwen. 
+This repository contains the code for our tool to evaluate and visualize privacy as presented in 'Evaluating privacy of individuals in medical data' by S.K.S. Kroes, M.P. Janssen, R.H.H Groenwold and M. van Leeuwen. 
 
 Basisfunctions.R contains the functions needed to compute and visualize the privacy measures in the paper. For users who want to evaluate and visualize privacy of data containing identifiable individuals, we recommend using the functions in this file on their own device. 
 
