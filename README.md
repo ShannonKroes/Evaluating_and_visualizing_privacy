@@ -5,7 +5,7 @@ Basisfunctions.R in the 'Manuscript' folder contains the functions needed to com
 
 Additionally, the 'Manuscript' folder also contains all the data used in the article, as well as Produce_figures_manuscript.R, which contains the R code used to perform the analyses and generate the figures in the article. 
 
-App.R is the code for the online tool we created: https://skskroes.shinyapps.io/Evaluating_and_visualizing_privacy/. When using this tool, the uploaded data will be processed on the R shiny server. A csv file can be uploaded, where the first row contains the variable names and the format is as stated in the paper. 
+App.R in the 'App' folder is the code for the online tool we created: https://skskroes.shinyapps.io/Evaluating_and_visualizing_privacy/. When using this tool, the uploaded data will be processed on the R shiny server. A csv file can be uploaded, where the first row contains the variable names and the format is as stated in the paper. 
 
 
 For any questions, please send an email to S.kroes@sanquin.nl. 
