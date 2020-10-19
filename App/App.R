@@ -524,8 +524,7 @@ ui <- fluidPage(
                                   width = "300px")
       )
       ),
-      h6("Columns will be ordered such that the picture is easiest to interpret")
-      
+      h6("Columns will be ordered such that the picture is easiest to interpret. Please note that the data will be processed on the shiny.io server. For more information, and for the source code that can be used for data containing identifiable individuals, please see our repository https://github.com/ShannonKroes/Evaluating_and_visualizing_privacy")
     ),
     # Main panel for displaying outputs ----
     # Output: Data file ----
